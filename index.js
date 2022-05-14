@@ -7,4 +7,10 @@ function sumOfSquare(num){
   return sum;
 }
 
+function approxSumOfSquare(num){
+   return 2/3 * (Math.pow(num,3/2) - 1)
+}
 
+
+console.log(sumOfSquare(4));
+console.log(approxSumOfSquare(4));
