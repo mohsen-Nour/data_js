@@ -12,5 +12,5 @@ function approxSumOfSquare(num){
 }
 
 
-console.log(sumOfSquare(4));
-console.log(approxSumOfSquare(4));
+console.log(sumOfSquare(11));
+console.log(approxSumOfSquare(11));
